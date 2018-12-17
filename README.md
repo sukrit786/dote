@@ -1,1 +1,1 @@
-# dote
+# dote A WordPress hosting
